@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# Compiled Java Class File
+*.class
+
+# Package files
+*.jar
+
+#Project Files
+*.project
+
+# Setting Files
+.setting/
